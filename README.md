@@ -1,4 +1,4 @@
-# DOG BREED CLASSIFIER PROJECT
+# DOG BREED CLASSIFIER
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
